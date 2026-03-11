@@ -79,9 +79,3 @@ The dashboard enables users to:
 - Analyze performance by business entity.
 
 
- Dashboard Preview:
-
-Example:
-
-
-
